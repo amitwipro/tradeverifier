@@ -75,6 +75,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <testFramework>JUNIT5</testFramework>
+                    <baseClassForTests>com.digi.trade.BaseTradeContractTest</baseClassForTests>
                 </configuration>
             </plugin>
             <plugin>
